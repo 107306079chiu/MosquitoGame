@@ -2,7 +2,7 @@
 
 This is the 1st hw built in course 3d game programming 2021 using Unity.
 
-The player is a hungry mosquito who wants to get to the sleeping guy and fill the belly. bite to get 100 points and pass this game.
+The player is a hungry mosquito who wants to get to the sleeping guy and fill the belly. Becareful of the dangerous hands that will kill the mosquito.
 
 Key W, A, S, and D are used to control the movement of the sprite, the player should get 100 points to pass this game.
 
